@@ -3,6 +3,7 @@
     <dimen name="h1size">20sp</dimen>
     <dimen name="smallpadding">8dp</dimen>
     <dimen name="defaulmargin">16dp</dimen>
+    <dimen name="ctnsize">14sp</dimen>
 
 
 </resources>
